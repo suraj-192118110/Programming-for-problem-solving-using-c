@@ -1,1 +1,1 @@
-# Programming-for-problem-solving-using-c-1st-lab
+# Programming-for-problem-solving-using-c
